@@ -86,5 +86,4 @@ Sigue estos pasos para correr el proyecto localmente.
     ```bash
     npx expo start
     ```
-
-## 📂 Estructura del Proyecto
+   
