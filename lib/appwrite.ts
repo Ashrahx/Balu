@@ -40,15 +40,6 @@ export async function login() {
   try {
     const redirectUri = Linking.createURL("/");
 
-     try {
-       const currentSession = await account.getSession("current");
-       if (currentSession) {
-         return true;
-       }
-     } catch (error) {
-       // No hay sesión activa, continuar con el login
-     }
-
     const response = await account.createOAuth2Token(
       OAuthProvider.Google,
       redirectUri
