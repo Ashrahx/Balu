@@ -1,0 +1,37 @@
+Licencia Personalizada de Uso No Comercial
+Versión 1.0 — 2025
+Autor: Ashrah
+
+1. Concesión de Permisos
+   Se otorga permiso a cualquier persona para utilizar, copiar, estudiar, modificar y redistribuir este software y su código fuente, únicamente para fines personales, educativos o de investigación, siempre y cuando se respeten los términos establecidos en esta licencia.
+
+2. Prohibición de Uso Comercial
+   Queda estrictamente prohibido el uso, reproducción, distribución, modificación o integración de este software o cualquier parte de su código en productos o servicios con fines comerciales sin una autorización expresa, por escrito, del autor.
+
+3. Modificaciones
+   Las modificaciones realizadas al software están permitidas siempre que:
+   a) Se mantenga este mismo documento de licencia.
+   b) Se incluya un aviso claro indicando qué archivos o secciones fueron modificadas.
+   c) Las modificaciones solo se utilicen y redistribuyan bajo los mismos términos no comerciales de esta licencia.
+
+4. Redistribución
+   Se permite redistribuir el software original o modificado siempre que:
+   a) No tenga fines comerciales.
+   b) Se conserve íntegramente esta licencia.
+   c) Se incluya el aviso de copyright correspondiente.
+
+5. Restricciones de Propiedad Intelectual
+   El autor conserva todos los derechos de propiedad intelectual.
+   No se transfiere la titularidad del software ni del código fuente mediante esta licencia.
+   El usuario no puede registrar, reclamar propiedad, sublicenciar con fines comerciales ni integrar este software en productos cerrados o privativos.
+
+6. Ausencia de Garantía
+   Este software se proporciona “tal cual”, sin garantías de ningún tipo, expresas o implícitas, incluidas, pero no limitadas a, garantías de comerciabilidad, adecuación para un propósito particular o no infracción.
+   El autor no será responsable por daños derivados del uso o imposibilidad de uso del software.
+
+7. Solicitud de Permisos Comerciales
+   Para cualquier uso comercial, integración en productos de negocio, monetización directa o indirecta, o distribución con fines de lucro, se requiere una autorización especial.
+   El interesado deberá contactar al autor para negociar los términos de licencia comercial.
+
+Copyright © 2025 Ashrah
+Todos los derechos reservados, excepto los expresamente concedidos por esta licencia.
