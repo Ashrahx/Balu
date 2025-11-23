@@ -46,16 +46,6 @@ Este proyecto utiliza las últimas tecnologías del ecosistema React Native:
 * ✅ **Detalle de Inmuebles:** Vista detallada con imágenes, ubicación y características.
 * ✅ **Perfil de Usuario:** Gestión de cuenta y avatar personalizado.
 
-## 📱 Capturas de Pantalla
-
-<div align="center">
-  <img src="./assets/images/onboarding.png" alt="Onboarding" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/images/home-placeholder.png" alt="Home Screen" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/images/details-placeholder.png" alt="Details" width="200"/>
-</div>
-
 ## 🚀 Comenzar (Getting Started)
 
 Sigue estos pasos para correr el proyecto localmente.
