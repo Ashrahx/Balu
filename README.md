@@ -3,7 +3,7 @@
     <img src="./assets/images/icon.png" alt="Balu Logo" width="100"/>
   <br />
 
-  <h1>🏠 Balu - Real Estate App</h1>
+  <h1>Balu - Real Estate App</h1>
 
   <p>
     <strong>Tu puerta de entrada al hogar perfecto.</strong>
